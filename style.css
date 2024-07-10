@@ -1,0 +1,53 @@
+.btn{
+    background-color: green;
+    color: #fff;
+}
+nav ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+nav ul li{
+    margin-right: 20px;
+    margin-top: 15px;
+}
+.overlap{
+    display: block;
+    position: relative;
+    bottom: 400px;
+    left: 120px;
+}
+.overlap h1{
+    color: green;
+    font-weight: 400;
+}
+.overlap h5{
+    color: green;
+    font-weight: bold;
+    margin-top: 30px;
+}
+.overlap button{
+    margin-top: 30px;
+}
+#grid .image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#grid .image div{
+    margin-left: 50px;
+    margin-right: 50px;
+    bot;
+}
+.overlap1{
+    display: block;
+    position: relative;
+    bottom: 400px;
+    left: 820px;
+}
+.overlap2{
+    display: block;
+    position: relative;
+    bottom: 400px;
+    left: 120px;
+}
